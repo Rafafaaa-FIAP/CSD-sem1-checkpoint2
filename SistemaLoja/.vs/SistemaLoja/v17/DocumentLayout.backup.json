@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|c:\\users\\crist\\desktop\\fiap 2\\2 - csd\\csd-sem1-checkpoint2\\sistemaloja\\sistemaloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|solutionrelative:sistemaloja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|c:\\users\\crist\\desktop\\fiap 2\\2 - csd\\csd-sem1-checkpoint2\\sistemaloja\\sistemaloja\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|solutionrelative:sistemaloja\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|c:\\users\\crist\\desktop\\fiap 2\\2 - csd\\csd-sem1-checkpoint2\\sistemaloja\\sistemaloja\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|solutionrelative:sistemaloja\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|c:\\users\\crist\\desktop\\fiap 2\\2 - csd\\csd-sem1-checkpoint2\\sistemaloja\\sistemaloja\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|solutionrelative:sistemaloja\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|c:\\users\\crist\\desktop\\fiap 2\\2 - csd\\csd-sem1-checkpoint2\\sistemaloja\\sistemaloja\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|solutionrelative:sistemaloja\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaLoja\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\Program.cs",
+              "RelativeToolTip": "SistemaLoja\\Program.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAA0wHQBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:14:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaLoja\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\PedidoRepository.cs",
+              "RelativeToolTip": "SistemaLoja\\PedidoRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:50:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaLoja\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\ProdutoRepository.cs",
+              "RelativeToolTip": "SistemaLoja\\ProdutoRepository.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAuwBkBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:20:24.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaLoja\\Categoria.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\Categoria.cs",
+              "RelativeToolTip": "SistemaLoja\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:13:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "SistemaLoja\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\FIAP 2\\2 - CSD\\CSD-sem1-checkpoint2\\SistemaLoja\\SistemaLoja\\DatabaseConnection.cs",
+              "RelativeToolTip": "SistemaLoja\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T22:15:41.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
