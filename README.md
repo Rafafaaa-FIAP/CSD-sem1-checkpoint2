@@ -5,6 +5,10 @@ Lab 12 - Conexão com SQL Server
 **Data:** 13/10/2025
 **Professor:** Charles
 
+# Integrantes
+- RM553377 - Enzo Rodrigues
+- RM553521 - Rafael Cristofali
+
 ---
 
 ## 📦 Conteúdo do Pacote
